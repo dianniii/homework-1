@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    padding: 10px;
+    background-color: rgb(220, 221, 221);
+  }
+
+  .main {
+    display: flex;
+    height: 500px;
+    background-color: rgb(252, 252, 225);
+  }
+  .wrapper {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .text {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 100px;
+    align-items: center;
+    background-color: rgb(241, 215, 181);
+  }
+
+  .text2 {
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+    background-color: rgb(241, 215, 181);
+  }
+  .part {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .part2 {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    background-color: rgb(206, 248, 224);
+    padding-top: 20px;
+  }
+  .subsection {
+    display: flex;
+    justify-content: space-between;
+  }
+  .section {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    margin: 0 20px 30px;
+  }
+
+  .footer{
+    display: flex;
+    height: 100px;
+    background-color: rgb(220, 221, 221);
+    justify-content: space-between;
+  }
+
+  .section2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 20px;
+    padding: 20px 140px;
+    background-color: rgb(255, 252, 252);
+  }
+
+  .section3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 20px;
+    padding: 20px 140px;
+    background-color: rgb(255, 252, 252);
+  }
+
+  .section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 20px;
+    padding: 20px 140px;
+    background-color: rgb(255, 252, 252);
+  }
+
+  .section5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 20px;
+    padding: 20px 140px;
+    background-color: rgb(255, 252, 252);
+  }
